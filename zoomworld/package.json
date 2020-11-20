@@ -1,0 +1,14 @@
+{
+  "name": "@richdayandnight/one-chart-a-day-zoom-in-to-per-country-in-the-world-map",
+  "main": "b35fa7cc262f89c4@394.js",
+  "version": "394.0.0",
+  "homepage": "https://observablehq.com/@richdayandnight/one-chart-a-day-zoom-in-to-per-country-in-the-world-map",
+  "author": {
+    "name": "Rich",
+    "url": "https://observablehq.com/@richdayandnight"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
